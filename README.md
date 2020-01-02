@@ -251,6 +251,8 @@ export WEBPACK_PORT=3331
 
 ```
 
+本来であれば gitignore に .envrc を追加するべきなのですがサンプルとして載せておきます。
+
 ### build
 
 ```
@@ -293,3 +295,5 @@ $ docker-compose up -d
 ```
 
 表示されます。
+
+大体 30 分程でできました。
